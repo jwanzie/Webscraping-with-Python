@@ -2,7 +2,7 @@
 
 ### Overview
 This project demonstartes how to collect data from a website using Python.
-I used the `requests` library to retrieve HTML content, `BeautifulSoup` to parse and extract the required elements and `panadas` to organize the data into a clean, reusable format. 
+I used the `requests` library to retrieve HTML content, `BeautifulSoup` to parse and extract the required elements and `pandas` to organize the data into a clean, reusable format. 
 
 ### Objective
 Extract relevant information from a web page, in this case, list of companies by revenue from wikipedia and stored into a CSV file for analysis. 
